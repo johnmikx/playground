@@ -15,6 +15,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 ```
 playground
 ├── greet_the_user/
+├── even_or_odd_checker/
 └── README.md
 ```
 
