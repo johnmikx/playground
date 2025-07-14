@@ -16,6 +16,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 playground
 ├── even_or_odd_checker/
 ├── greet_the_user/
+├── list_sorter/
 ├── random_number_guesser/
 ├── simple_calculator/
 ├── temperature_converter/
