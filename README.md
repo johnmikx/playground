@@ -14,8 +14,9 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 ## Directory Structure
 ```
 playground
-├── greet_the_user/
 ├── even_or_odd_checker/
+├── greet_the_user/
+├── simple_calculator/
 └── README.md
 ```
 
