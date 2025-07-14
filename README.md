@@ -19,6 +19,7 @@ playground
 ├── list_sorter/
 ├── random_number_guesser/
 ├── simple_calculator/
+├── simple_login_checker/
 ├── temperature_converter/
 └── README.md
 ```
