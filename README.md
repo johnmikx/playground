@@ -17,6 +17,7 @@ playground
 ├── character_counter/
 ├── even_or_odd_checker/
 ├── greet_the_user/
+├── interactive_location_mapper/
 ├── list_sorter/
 ├── random_number_guesser/
 ├── simple_calculator/
