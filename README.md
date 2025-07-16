@@ -11,7 +11,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 
 ***:)***
 
-## Directory Structure
+## **Directory Structure**
 ```
 playground
 ├── animated_random_scatter_plot/
@@ -28,7 +28,7 @@ playground
 └── README.md
 ```
 
-## About the Author
+## **About the Author**
 
 🥷 **John Mike Asuncion (Mike)**
 
