@@ -14,6 +14,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 ## Directory Structure
 ```
 playground
+├── animated_random_scatter_plot/
 ├── character_counter/
 ├── color_calendar_display/
 ├── even_or_odd_checker/
