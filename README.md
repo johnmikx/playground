@@ -15,6 +15,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 ```
 playground
 ├── character_counter/
+├── color_calendar_display/
 ├── even_or_odd_checker/
 ├── greet_the_user/
 ├── interactive_location_mapper/
