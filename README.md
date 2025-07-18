@@ -18,6 +18,7 @@ playground
 ├── character_counter/
 ├── color_calendar_display/
 ├── countdown_with_delay/
+├── crypto_investment_metrics_chart/
 ├── even_or_odd_checker/
 ├── greet_the_user/
 ├── interactive_location_mapper/
