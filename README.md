@@ -24,6 +24,7 @@ playground
 ├── interactive_location_mapper/
 ├── list_sorter/
 ├── random_number_guesser/
+├── reverse_string/
 ├── simple_calculator/
 ├── simple_login_checker/
 ├── temperature_converter/
