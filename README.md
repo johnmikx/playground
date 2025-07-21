@@ -19,6 +19,7 @@ playground
 ├── color_calendar_display/
 ├── countdown_with_delay/
 ├── crypto_investment_metrics_chart/
+├── element_lookup_by_atomic_number/
 ├── even_or_odd_checker/
 ├── greet_the_user/
 ├── image_color_palette_extraction/
