@@ -21,6 +21,7 @@ playground
 ├── crypto_investment_metrics_chart/
 ├── element_lookup_by_atomic_number/
 ├── even_or_odd_checker/
+├── generate_barcode_image/
 ├── greet_the_user/
 ├── image_color_palette_extraction/
 ├── interactive_location_mapper/
