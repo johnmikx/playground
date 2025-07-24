@@ -25,6 +25,7 @@ playground
 ├── greet_the_user/
 ├── image_color_palette_extraction/
 ├── interactive_location_mapper/
+├── iris_feature_correlation_heatmap/
 ├── list_sorter/
 ├── random_number_guesser/
 ├── random_password_generator/
