@@ -15,6 +15,7 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 ```
 playground
 ├── animated_random_scatter_plot/
+├── area_chart_between_series/
 ├── character_counter/
 ├── color_calendar_display/
 ├── countdown_with_delay/
