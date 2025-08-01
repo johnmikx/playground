@@ -29,6 +29,7 @@ playground
 ├── interactive_location_mapper/
 ├── iris_feature_correlation_heatmap/
 ├── list_sorter/
+├── network_graph_cycle_layout/
 ├── radar_chart_visualization/
 ├── random_number_guesser/
 ├── random_password_generator/
