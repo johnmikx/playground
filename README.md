@@ -19,6 +19,7 @@ playground
 ├── character_counter/
 ├── color_calendar_display/
 ├── color_name_to_hex_converter/
+├── contour_plot_meshgrid_surface/
 ├── countdown_with_delay/
 ├── crypto_investment_metrics_chart/
 ├── element_lookup_by_atomic_number/
