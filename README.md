@@ -26,6 +26,7 @@ playground
 ├── even_or_odd_checker/
 ├── generate_barcode_image/
 ├── greet_the_user/
+├── image_background_removal/
 ├── image_color_palette_extraction/
 ├── interactive_location_mapper/
 ├── iris_feature_correlation_heatmap/
