@@ -40,6 +40,7 @@ playground
 ├── simple_calculator/
 ├── simple_login_checker/
 ├── temperature_converter/
+├── two_dimensional_histogram/
 └── README.md
 ```
 
