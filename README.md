@@ -32,6 +32,7 @@ playground
 ├── iris_feature_correlation_heatmap/
 ├── list_sorter/
 ├── network_graph_cycle_layout/
+├── qr_code_with_watermark/
 ├── radar_chart_visualization/
 ├── random_number_guesser/
 ├── random_password_generator/
