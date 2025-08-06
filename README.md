@@ -24,6 +24,7 @@ playground
 ├── crypto_investment_metrics_chart/
 ├── element_lookup_by_atomic_number/
 ├── even_or_odd_checker/
+├── gapminder_animated_bubble_chart/
 ├── generate_barcode_image/
 ├── greet_the_user/
 ├── image_background_removal/
