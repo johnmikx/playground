@@ -31,6 +31,7 @@ playground
 ├── image_background_removal/
 ├── image_color_palette_extraction/
 ├── interactive_location_mapper/
+├── inverted_triangle_pattern_plot/
 ├── iris_feature_correlation_heatmap/
 ├── list_sorter/
 ├── network_graph_cycle_layout/
