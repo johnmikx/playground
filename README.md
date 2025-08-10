@@ -21,6 +21,7 @@ playground
 ├── color_name_to_hex_converter/
 ├── contour_plot_meshgrid_surface/
 ├── countdown_with_delay/
+├── country_information_retriever/
 ├── crypto_investment_metrics_chart/
 ├── element_lookup_by_atomic_number/
 ├── even_or_odd_checker/
