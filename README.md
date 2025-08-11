@@ -37,6 +37,7 @@ playground
 ├── inverted_triangle_pattern_plot/
 ├── iris_feature_correlation_heatmap/
 ├── list_sorter/
+├── matplotlib_shared_xaxis_subplots/
 ├── network_graph_cycle_layout/
 ├── qr_code_with_watermark/
 ├── radar_chart_visualization/
