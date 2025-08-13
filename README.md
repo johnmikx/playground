@@ -47,6 +47,7 @@ playground
 ├── simple_calculator/
 ├── simple_login_checker/
 ├── streamgraph_matplotlib/
+├── sunburst_chart_plotly/
 ├── temperature_converter/
 ├── two_dimensional_histogram/
 └── README.md
