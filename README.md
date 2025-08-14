@@ -19,6 +19,7 @@ playground
 ├── character_counter/
 ├── color_calendar_display/
 ├── color_name_to_hex_converter/
+├── colorful_spiral_turtle/
 ├── contour_plot_meshgrid_surface/
 ├── countdown_with_delay/
 ├── country_information_retriever/
