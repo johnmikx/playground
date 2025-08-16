@@ -13,8 +13,9 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 
 ## **Directory Structure**
 ```
-playground
+playground/
 ├── animated_random_scatter_plot/
+├── area_between_two_lines/
 ├── area_chart_between_series/
 ├── character_counter/
 ├── color_calendar_display/
