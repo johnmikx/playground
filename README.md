@@ -42,6 +42,7 @@ playground/
 ├── list_sorter/
 ├── matplotlib_shared_xaxis_subplots/
 ├── network_graph_cycle_layout/
+├── polar_plot_sin_function/
 ├── qr_code_with_watermark/
 ├── radar_chart_visualization/
 ├── random_number_guesser/
