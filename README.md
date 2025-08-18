@@ -31,6 +31,7 @@ playground/
 ├── gapminder_animated_bubble_chart/
 ├── generate_barcode_image/
 ├── greet_the_user/
+├── heatmap_example/
 ├── highlight_country_choropleth/
 ├── hourglass_star_pattern/
 ├── image_background_removal/
