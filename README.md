@@ -55,6 +55,7 @@ playground/
 ├── sunburst_chart_plotly/
 ├── temperature_converter/
 ├── two_dimensional_histogram/
+├── violin_swarm_plot/
 └── README.md
 ```
 
