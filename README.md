@@ -17,6 +17,7 @@ playground/
 ├── animated_random_scatter_plot/
 ├── area_between_two_lines/
 ├── area_chart_between_series/
+├── boxplot_random_data/
 ├── character_counter/
 ├── color_calendar_display/
 ├── color_name_to_hex_converter/
