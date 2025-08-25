@@ -52,6 +52,7 @@ playground/
 ├── reverse_string/
 ├── simple_calculator/
 ├── simple_login_checker/
+├── spiral_arc_pattern/
 ├── streamgraph_matplotlib/
 ├── sunburst_chart_plotly/
 ├── temperature_converter/
