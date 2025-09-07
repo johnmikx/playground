@@ -56,6 +56,7 @@ playground/
 ├── streamgraph_matplotlib/
 ├── sunburst_chart_plotly/
 ├── temperature_converter/
+├── turtle_circle_spiral/
 ├── two_dimensional_histogram/
 ├── violin_swarm_plot/
 └── README.md
