@@ -11,56 +11,79 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 
 ***:)***
 
-## **Directory Structure**
+## **Projects Overview**
+
+**47 projects** organized into the following categories:
+
+### **Beginner Utilities** (11 projects)
+Simple programs for learning Python fundamentals
 ```
-playground/
-├── animated_random_scatter_plot/
-├── area_between_two_lines/
-├── area_chart_between_series/
-├── boxplot_random_data/
 ├── character_counter/
-├── color_calendar_display/
-├── color_name_to_hex_converter/
-├── colorful_spiral_turtle/
-├── contour_plot_meshgrid_surface/
 ├── countdown_with_delay/
-├── country_information_retriever/
-├── crypto_investment_metrics_chart/
-├── element_lookup_by_atomic_number/
 ├── even_or_odd_checker/
-├── funnel_chart_plotly/
-├── gapminder_animated_bubble_chart/
-├── generate_barcode_image/
 ├── greet_the_user/
-├── heatmap_example/
-├── highlight_country_choropleth/
-├── hourglass_star_pattern/
-├── image_background_removal/
-├── image_color_palette_extraction/
-├── interactive_location_mapper/
-├── inverted_pyramid_pattern_plot/
-├── inverted_triangle_pattern_plot/
-├── iris_feature_correlation_heatmap/
 ├── list_sorter/
-├── matplotlib_shared_xaxis_subplots/
-├── network_graph_cycle_layout/
-├── polar_plot_sin_function/
-├── prettytable_example/
-├── qr_code_with_watermark/
-├── radar_chart_visualization/
 ├── random_number_guesser/
 ├── random_password_generator/
 ├── reverse_string/
 ├── simple_calculator/
 ├── simple_login_checker/
-├── spiral_arc_pattern/
+└── temperature_converter/
+```
+
+### **Data Visualization** (18 projects)
+Advanced plotting with Matplotlib and Plotly
+```
+├── animated_random_scatter_plot/
+├── area_between_two_lines/
+├── area_chart_between_series/
+├── boxplot_random_data/
+├── contour_plot_meshgrid_surface/
+├── crypto_investment_metrics_chart/
+├── funnel_chart_plotly/
+├── gapminder_animated_bubble_chart/
+├── heatmap_example/
+├── highlight_country_choropleth/
+├── iris_feature_correlation_heatmap/
+├── matplotlib_shared_xaxis_subplots/
+├── polar_plot_sin_function/
+├── radar_chart_visualization/
 ├── streamgraph_matplotlib/
 ├── sunburst_chart_plotly/
-├── temperature_converter/
-├── turtle_circle_spiral/
 ├── two_dimensional_histogram/
-├── violin_swarm_plot/
-└── README.md
+└── violin_swarm_plot/
+```
+
+### **Graphics & Pattern Generation** (6 projects)
+Creative programming using Turtle graphics
+```
+├── colorful_spiral_turtle/
+├── hourglass_star_pattern/
+├── inverted_pyramid_pattern_plot/
+├── inverted_triangle_pattern_plot/
+├── spiral_arc_pattern/
+└── turtle_circle_spiral/
+```
+
+### **Image Processing & Tools** (5 projects)
+Image manipulation and data representation
+```
+├── generate_barcode_image/
+├── image_background_removal/
+├── image_color_palette_extraction/
+├── prettytable_example/
+└── qr_code_with_watermark/
+```
+
+### **Domain-Specific Applications** (7 projects)
+Real-world data retrieval and specialized tools
+```
+├── color_calendar_display/
+├── color_name_to_hex_converter/
+├── country_information_retriever/
+├── element_lookup_by_atomic_number/
+├── interactive_location_mapper/
+└── network_graph_cycle_layout/
 ```
 
 ## **About the Author**
