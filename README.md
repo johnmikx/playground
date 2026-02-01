@@ -11,6 +11,36 @@ Expect everything from quick utilities ⚙️ to one-off scripts 📄 and mini p
 
 ***:)***
 
+## **Technologies Used**
+
+This playground uses various Python libraries and tools:
+
+**Data Science & Visualization**
+- `matplotlib` - 2D plotting library
+- `plotly` - Interactive visualizations
+- `pandas` - Data manipulation and analysis
+- `numpy` - Numerical computing
+- `seaborn` - Statistical data visualization
+
+**Image Processing**
+- `PIL/Pillow` - Image manipulation
+- `rembg` - Background removal
+- `python-barcode` - Barcode generation
+- `qrcode` - QR code generation
+
+**Specialized Libraries**
+- `folium` - Interactive maps
+- `networkx` - Network graphs
+- `periodictable` - Chemical elements data
+- `countryinfo` - Country information API
+- `prettytable` - ASCII table formatting
+
+**Built-in Modules**
+- `turtle` - Graphics and patterns
+- `random`, `time`, `string` - Standard utilities
+
+Each project directory contains its own documentation with specific dependencies.
+
 ## **Projects Overview**
 
 **47 projects** organized into the following categories:
